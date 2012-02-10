@@ -1,0 +1,3 @@
+[submodule "automysqlbackup"]
+	path = automysqlbackup
+	url = git@github.com:sragu/automysqlbackup.git
