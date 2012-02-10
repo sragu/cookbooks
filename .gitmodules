@@ -1,3 +1,6 @@
 [submodule "automysqlbackup"]
 	path = automysqlbackup
 	url = git@github.com:sragu/automysqlbackup.git
+[submodule "sonar"]
+	path = sonar
+	url = git@github.com:sragu/chef-sonar.git
